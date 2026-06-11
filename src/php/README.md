@@ -7,7 +7,7 @@
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/features/php:1": {}
+    "ghcr.io/pepe57/features/php:1": {}
 }
 ```
 
@@ -38,4 +38,4 @@ This Feature should work on recent versions of Debian/Ubuntu-based distributions
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/php/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/pepe57/features/blob/main/src/php/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
